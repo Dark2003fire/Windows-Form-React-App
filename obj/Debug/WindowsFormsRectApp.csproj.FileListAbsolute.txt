@@ -1,0 +1,10 @@
+C:\Users\hjha0\source\repos\WindowsFormsRectApp\bin\Debug\WindowsFormsRectApp.exe.config
+C:\Users\hjha0\source\repos\WindowsFormsRectApp\bin\Debug\WindowsFormsRectApp.exe
+C:\Users\hjha0\source\repos\WindowsFormsRectApp\bin\Debug\WindowsFormsRectApp.pdb
+C:\Users\hjha0\source\repos\WindowsFormsRectApp\obj\Debug\WindowsFormsRectApp.csproj.AssemblyReference.cache
+C:\Users\hjha0\source\repos\WindowsFormsRectApp\obj\Debug\WindowsFormsRectApp.Form1.resources
+C:\Users\hjha0\source\repos\WindowsFormsRectApp\obj\Debug\WindowsFormsRectApp.Properties.Resources.resources
+C:\Users\hjha0\source\repos\WindowsFormsRectApp\obj\Debug\WindowsFormsRectApp.csproj.GenerateResource.cache
+C:\Users\hjha0\source\repos\WindowsFormsRectApp\obj\Debug\WindowsFormsRectApp.csproj.CoreCompileInputs.cache
+C:\Users\hjha0\source\repos\WindowsFormsRectApp\obj\Debug\WindowsFormsRectApp.exe
+C:\Users\hjha0\source\repos\WindowsFormsRectApp\obj\Debug\WindowsFormsRectApp.pdb
